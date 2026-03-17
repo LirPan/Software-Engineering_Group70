@@ -2,3 +2,5 @@
 
 | GitHub Username | QMID |
 |---- |---- |
+|Gelinghan-bot|231225915|
+
